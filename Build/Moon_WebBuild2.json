@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Moon_WebBuild2.data.unityweb",
+"asmCodeUrl": "Moon_WebBuild2.asm.code.unityweb",
+"asmMemoryUrl": "Moon_WebBuild2.asm.memory.unityweb",
+"asmFrameworkUrl": "Moon_WebBuild2.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#7F7F7F"
+}
