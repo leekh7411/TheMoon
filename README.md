@@ -23,11 +23,12 @@ You made an emergency landing on the moon. Talk to Sara and Alex.\n
 3. Develope the GameBot using Lex console. And just connect it.
 4. Again in Unity, it can be receive the reply data from lex through the lambda function.
 
-[Send Data.......................]            [......................Recieve Data]\n
-Unity ----> Lambda ----> Lex ---> Lambda for Lex ----> Lex ----> Lambda ---> Unity\n
+Unity ----> Lambda ----> Lex ---> Lambda for Lex ----> Lex ----> Lambda ---> Unity
+
 
 _Oh, Very Simple!_
 
 ## Here You Can Meet Games Bots
-[http://ec2-34-227-224-117.compute-1.amazonaws.com/Alex.html] - Game Bot Alex\n
-[http://ec2-34-227-224-117.compute-1.amazonaws.com/Sara.html] - Game Bot Sara\n
+[http://ec2-34-227-224-117.compute-1.amazonaws.com/Alex.html] - Game Bot Alex
+[http://ec2-34-227-224-117.compute-1.amazonaws.com/Sara.html] - Game Bot Sara
+
