@@ -29,6 +29,6 @@ Unity ----> Lambda ----> Lex ---> Lambda for Lex ----> Lex ----> Lambda ---> Uni
 _Oh, Very Simple!_
 
 ## Here You Can Meet Games Bots
-[http://ec2-34-227-224-117.compute-1.amazonaws.com/Alex.html] - Game Bot Alex\n
-[http://ec2-34-227-224-117.compute-1.amazonaws.com/Sara.html] - Game Bot Sara
+- [http://ec2-34-227-224-117.compute-1.amazonaws.com/Alex.html] - Game Bot Alex
+- [http://ec2-34-227-224-117.compute-1.amazonaws.com/Sara.html] - Game Bot Sara
 
