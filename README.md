@@ -1,7 +1,9 @@
 # TheMoon
-AWS-chatbot challenge 2017. Unity &amp; AWS Lex , Lambda..etc
+AWS-chatbot challenge 2017. Unity &amp; AWS Lex , Lambda..etc\n
 ## What Is **The Moon**?
-Simple, but new type game. You can chat with game-bot(called NPC) Sara and Alex. You made an emergency landing on the moon. Talk to Sara and Alex.
+Simple, but new type game.\n
+You can chat with game-bot(called NPC) Sara and Alex.\n
+You made an emergency landing on the moon. Talk to Sara and Alex.\n
 
 ## Why is this special?
 1. It's easy to implement the ChatBot through Amazon Lex and make it easy to play in the game.
@@ -21,8 +23,8 @@ Simple, but new type game. You can chat with game-bot(called NPC) Sara and Alex.
 3. Develope the GameBot using Lex console. And just connect it.
 4. Again in Unity, it can be receive the reply data from lex through the lambda function.
 
-[Send Data.......................]            [......................Recieve Data]
-Unity ----> Lambda ----> Lex ---> Lambda for Lex ----> Lex ----> Lambda ---> Unity
+[Send Data.......................]            [......................Recieve Data]\n
+Unity ----> Lambda ----> Lex ---> Lambda for Lex ----> Lex ----> Lambda ---> Unity\n
 
 _Oh, Very Simple!_
 
