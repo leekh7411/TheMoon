@@ -1,0 +1,53 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 550M (ID=0xdf6)
+    Vendor:   NVIDIA
+    VRAM:     2000 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\AWSSDK.CognitoIdentity.dll (this message is harmless)
+Loading C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\AWSSDK.CognitoIdentity.dll into Unity Child Domain
+Platform assembly: C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\AWSSDK.Core.dll (this message is harmless)
+Loading C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\AWSSDK.Core.dll into Unity Child Domain
+Platform assembly: C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\AWSSDK.Lambda.dll (this message is harmless)
+Loading C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\AWSSDK.Lambda.dll into Unity Child Domain
+Platform assembly: C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\AWSSDK.SecurityToken.dll (this message is harmless)
+Loading C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\AWSSDK.SecurityToken.dll into Unity Child Domain
+Platform assembly: C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\LitJson.dll into Unity Child Domain
+- Completed reload, in  0.547 seconds
+Platform assembly: C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 3.974449 ms
+Platform assembly: C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: C:\TheMoon\Unity-ExcutableGameFile\TheMoon_Data\Managed\System.Xml.dll (this message is harmless)
+Fallback handler could not load library C:/TheMoon/Unity-ExcutableGameFile/TheMoon_Data/Mono/.\/usr/lib/libobjc.dylib
+Fallback handler could not load library C:/TheMoon/Unity-ExcutableGameFile/TheMoon_Data/Mono/lib/usr/lib/libobjc.dylib
+Fallback handler could not load library C:/TheMoon/Unity-ExcutableGameFile/TheMoon_Data/Mono/.\lib/usr/lib/libobjc.dylib
+Fallback handler could not load library C:/TheMoon/Unity-ExcutableGameFile/TheMoon_Data/Mono/lib/usr/lib/libobjc.dylib
+Fallback handler could not load library C:/TheMoon/Unity-ExcutableGameFile/TheMoon_Data/Mono/.\/usr/lib/libobjc.dylib
+Fallback handler could not load library C:/TheMoon/Unity-ExcutableGameFile/TheMoon_Data/Mono/lib/usr/lib/libobjc.dylib
+Fallback handler could not load library C:/TheMoon/Unity-ExcutableGameFile/TheMoon_Data/Mono/.\lib/usr/lib/libobjc.dylib
+Fallback handler could not load library C:/TheMoon/Unity-ExcutableGameFile/TheMoon_Data/Mono/lib/usr/lib/libobjc.dylib
+Attached unity initializer to ChannelGBot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3460 -> priority: 1 
+  Thread -> id: 4f90 -> priority: 1 
