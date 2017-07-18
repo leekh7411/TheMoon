@@ -21,12 +21,11 @@ Simple, but new type game. You can chat with game-bot(called NPC) Sara and Alex.
 3. Develope the GameBot using Lex console. And just connect it.
 4. Again in Unity, it can be receive the reply data from lex through the lambda function.
 
-(Unity AWS Lambda SDK) ==[chatting data send]==> (AWS-Lambda) ==[Lex data form]==> [ Lex ]
-                                                                                                                            | |<-Chatbot Reply
-(Unity AWS Lambda SDK) <=[chatting data send]<== (AWS-Lambda) <=[Lex data form]<== [ Lex ]
+[Send Data.......................]            [......................Recieve Data]
+Unity ----> Lambda ----> Lex ---> Lambda for Lex ----> Lex ----> Lambda ---> Unity
 
 _Oh, Very Simple!_
 
 ## Here You Can Meet Games Bots
-[http://ec2-34-227-224-117.compute-1.amazonaws.com/Alex.html] - Game Bot Alex
-[http://ec2-34-227-224-117.compute-1.amazonaws.com/Sara.html] - Game Bot Sara
+[http://ec2-34-227-224-117.compute-1.amazonaws.com/Alex.html] - Game Bot Alex\n
+[http://ec2-34-227-224-117.compute-1.amazonaws.com/Sara.html] - Game Bot Sara\n
