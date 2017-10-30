@@ -1,4 +1,4 @@
-# TheMoon
+# TheMoon (Server closed)
 - AWS-chatbot challenge 2017. 
 - Unity &amp; AWS Lex , Lambda..etc
 ## What Is **The Moon**?
@@ -30,6 +30,6 @@ Unity ----> Lambda ----> Lex ---> Lambda for Lex ----> Lex ----> Lambda ---> Uni
 _Oh, Very Simple!_
 
 ## Here You Can Meet Games Bots
-- [http://ec2-34-227-224-117.compute-1.amazonaws.com/Alex.html] - Game Bot Alex
-- [http://ec2-34-227-224-117.compute-1.amazonaws.com/Sara.html] - Game Bot Sara
+- [http://ec2-34-227-224-117.compute-1.amazonaws.com/Alex.html] - Game Bot Alex (Sorry! Server closed)
+- [http://ec2-34-227-224-117.compute-1.amazonaws.com/Sara.html] - Game Bot Sara (Server closed)
 
